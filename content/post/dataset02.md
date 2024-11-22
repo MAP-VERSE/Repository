@@ -1,0 +1,37 @@
+---
+title: CartoGAZE
+subtitle: Visual Attention and Recognition Differences Based on Expertise in a Map Reading and Memorability Study
+# date: 2023-01-12
+tags: ["eye tracking", "AOI","spatial memory","memorability", " cartographic usability", "task difficulty", "expertise", "eye tracking dataset", "navigational maps"]
+---
+#### Abstract
+[This study investigates how expert and novice map users’ attention is influenced by the map design characteristics of 2D web maps by building and sharing a framework to analyze large volumes of eye tracking data. In this context, we developed an automated area-of-interest (AOI) analysis framework to evaluate participants’ fixation durations, and to assess the influence of linear and polygonal map features on spatial memory. The dataset entitled CartoGAZE is publicly available.](https://www.mdpi.com/2220-9964/12/1/21)
+
+{{< gallery caption-effect="fade" >}}
+{{< /gallery >}}
+##### Full citation (dataset) with DOI
+Keskin, Merve, 2023, "CartoGAZE", https://doi.org/10.7910/DVN/ONIAZI, Harvard Dataverse, V1
+
+##### Related articles
+Keskin M, Krassanakis V, Çöltekin A. Visual Attention and Recognition Differences Based on Expertise in a Map Reading and Memorability Study. ISPRS International Journal of Geo-Information. 2023; 12(1):21. 
+
+##### Related links
+https://www.mdpi.com/2220-9964/12/1/21
+
+{{<figure src="/Open-Metadata-Platform-for-Map-Usability_v2/img/img02_01.jpg">}}
+{{<figure src="/Open-Metadata-Platform-for-Map-Usability_v2/img/img02_02.jpg">}}
+<!--more-->
+## Example
+The above gallery was created using the following shortcodes:
+```
+{{</* gallery caption-effect="fade" */>}}
+  {{</* figure thumb="-thumb" link="/img/img02_01.jpg" */>}}
+  {{</* figure thumb="-thumb" link="/img/img02_02.jpg" caption="Triangle" alt="This is a long comment about a triangle" */>}}
+{{</* /gallery */>}}
+```
+
+## Usage
+For full details please see the [hugo-easy-gallery GitHub](https://github.com/liwenyip/hugo-easy-gallery/) page. Basic usages from above are:
+
+- `{{</* figure thumb="-small" link="image.jpg" */>}}` will use `image-small.jpg` for thumbnail and `image.jpg` for lightbox
+- All the [features/parameters](https://gohugo.io/extras/shortcodes) of Hugo's built-in `figure` shortcode work as normal, i.e. src, link, title, caption, class, attr (attribution), attrlink, alt
