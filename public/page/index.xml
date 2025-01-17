@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on MAP-VERSE</title>
+    <link>http://localhost:1313/Repository/page/</link>
+    <description>Recent content in Pages on MAP-VERSE</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/Repository/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About us</title>
+      <link>http://localhost:1313/Repository/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Repository/page/about/</guid>
+      <description>This repository provides researchers with structured access to a wealth of metadata, specifically from eye tracking, neuroimaging (EEG, fMRI), and human sensing (EDA, cardiovascular activity, skin temperature) datasets collected during geospatial tasks in-lab, virtual environment or real-world scenarios. By offering detailed metadata across key dimensions like participant characteristics, experimental design, stimuli, and analysis methods, we aim to facilitate data discovery, reuse, and comparative analysis. We link directly to open datasets shared on platforms such as Zenodo, Harvard Dataverse, figshare promoting accessibility and transparency.</description>
+    </item>
+  </channel>
+</rss>
