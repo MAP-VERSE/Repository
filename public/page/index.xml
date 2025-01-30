@@ -2,16 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on MAP-VERSE</title>
-    <link>http://localhost:1313/Repository/page/</link>
+    <link>https://MAP-VERSE.github.io/Repository/page/</link>
     <description>Recent content in Pages on MAP-VERSE</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/Repository/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jan 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://MAP-VERSE.github.io/Repository/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MAP-VERSE</title>
+      <link>https://MAP-VERSE.github.io/Repository/page/dummy/</link>
+      <pubDate>Thu, 30 Jan 2025 10:00:00 +0000</pubDate>
+      <guid>https://MAP-VERSE.github.io/Repository/page/dummy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT License</title>
+      <link>https://MAP-VERSE.github.io/Repository/page/license_mit/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MAP-VERSE.github.io/Repository/page/license_mit/</guid>
+      <description>Copyright (c) 2024-2025 - MAP-VERSE&#xA;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
     <item>
       <title>About us</title>
-      <link>http://localhost:1313/Repository/page/about/</link>
+      <link>https://MAP-VERSE.github.io/Repository/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Repository/page/about/</guid>
+      <guid>https://MAP-VERSE.github.io/Repository/page/about/</guid>
       <description>This repository provides researchers with structured access to a wealth of metadata, specifically from eye tracking, neuroimaging (EEG, fMRI), and human sensing (EDA, cardiovascular activity, skin temperature) datasets collected during geospatial tasks in-lab, virtual environment or real-world scenarios. By offering detailed metadata across key dimensions like participant characteristics, experimental design, stimuli, and analysis methods, we aim to facilitate data discovery, reuse, and comparative analysis. We link directly to open datasets shared on platforms such as Zenodo, Harvard Dataverse, figshare promoting accessibility and transparency.</description>
     </item>
   </channel>

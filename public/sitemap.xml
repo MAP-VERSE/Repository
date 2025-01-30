@@ -2,120 +2,128 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Repository/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/</loc>
+    <lastmod>2025-01-30T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/-activity-recognition/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/page/dummy/</loc>
+    <lastmod>2025-01-30T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/-cartographic-usability/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/page/</loc>
+    <lastmod>2025-01-30T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Repository/page/about/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/page/license_mit/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/animated-symbols/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/-activity-recognition/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/aoi/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/-cartographic-usability/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/post/dataset02/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/page/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/cartographic-backgrounds/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/animated-symbols/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/cartographic-design/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/aoi/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/cartography/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/post/dataset02/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/comparison-metrics/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/cartographic-backgrounds/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/daily-smartphone-usage/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/cartographic-design/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/electroencephalography/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/cartography/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/expert-judgement-process/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/comparison-metrics/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/expertise/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/daily-smartphone-usage/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/eye-movement-analysis/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/electroencephalography/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/eye-movement-dataset/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/expert-judgement-process/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/eye-tracking/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/expertise/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/eye-tracking-dataset/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/eye-movement-analysis/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/post/dataset05/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/eye-movement-dataset/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/post/dataset06/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/eye-tracking/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/post/dataset09/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/eye-tracking-dataset/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/gaze-dataset/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/post/dataset05/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/post/dataset01/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/post/dataset06/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/geospatial-image/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/post/dataset09/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/gis/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/gaze-dataset/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/graph-based-metric/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/post/dataset01/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/lab-based-and-online-user-studies/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/geospatial-image/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/locating-symbols/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/gis/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/map-activities/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/graph-based-metric/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/post/dataset07/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/lab-based-and-online-user-studies/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/map-adaptation/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/locating-symbols/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/maps/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/map-activities/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/memorability/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/post/dataset07/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/mobile-maps/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/map-adaptation/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/mobile-navigation/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/maps/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/motion-distribution/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/post/dataset04/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/mouse-tracking/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/memorability/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/multidirectional-hill-shading/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/mobile-maps/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/navigational-maps/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/mobile-navigation/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/online-map-services/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/motion-distribution/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/post/dataset03/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/mouse-tracking/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/page/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/multidirectional-hill-shading/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/pictorial-symbols/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/navigational-maps/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/post/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/online-map-services/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/preattentive-processing/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/post/dataset03/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/post/dataset08/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/pictorial-symbols/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/saliency/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/post/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/spatial-contexts/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/preattentive-processing/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/spatial-memory/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/post/dataset08/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/statistical-grayscale-heatmaps/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/saliency/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/spatial-contexts/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/task-difficulty/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/spatial-memory/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/post/dataset04/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/statistical-grayscale-heatmaps/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/post/data_tools/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/visual-complexity/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/task-difficulty/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/visual-perception-differences/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/post/data_tools/</loc>
   </url><url>
-    <loc>http://localhost:1313/Repository/tags/visual-saliency-detection/</loc>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/visual-complexity/</loc>
+  </url><url>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/visual-perception-differences/</loc>
+  </url><url>
+    <loc>https://MAP-VERSE.github.io/Repository/tags/visual-saliency-detection/</loc>
   </url>
 </urlset>
