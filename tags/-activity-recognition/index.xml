@@ -1,18 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title> Activity Recognition on MAP-VERSE</title>
-    <link>https://MAP-VERSE.github.io/Repository/tags/-activity-recognition/</link>
-    <description>Recent content in  Activity Recognition on MAP-VERSE</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="https://MAP-VERSE.github.io/Repository/tags/-activity-recognition/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Map activities recognition</title>
-      <link>https://MAP-VERSE.github.io/Repository/post/dataset07/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://MAP-VERSE.github.io/Repository/post/dataset07/</guid>
-      <description>&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/13658816.2024.2309188&#34;&gt;Recognizing the activities being performed on a map is crucial for adaptive map design based on user context. Despite eye tracking (ET) demonstrating potential in recognizing map activities and electroencephalography (EEG) measuring map users’ cognitive load, no studies have yet combined ET and EEG for recognition of the user’s activity on maps. Our study collected participants’ ET and EEG data during four types of map activities. After feature extraction and selection, we trained LightGBM (light Gradient-Boosting Machine) to classify these activities, and achieved 88.0% accuracy when combining ET and EEG features in the entire map usage trial, which is higher than using ET (85.9%) or EEG (53.9%) alone. Acceptable recognition accuracy could also be achieved with the early time windows (73.1% when using the first 3 seconds). Saccade features of ET were the most important for differentiating map activities, indicating selective map content for different tasks. Our findings demonstrate the feasibility and advantages of combining ET and EEG for activity recognition in map use. The results not only improve our understanding of visual patterns and cognitive processes in map use, but also enable the design of adaptive maps that can automatically adapt to the activities a map user is performing.&lt;/a&gt;&#xA;&#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://MAP-VERSE.github.io/Repository/css/hugo-easy-gallery.css&#34; /&gt;&#xA;&#xA;&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;&#xA;&#x9;  &#xA;&#xA;&lt;/div&gt;&#xA;&lt;/p&gt;&#xA;&lt;h5 id=&#34;full-citation-dataset-with-doi&#34;&gt;Full citation (dataset) with DOI&lt;/h5&gt;&#xA;&lt;p&gt;Qin, Tong; Fias, Wim; Weghe, Nico Van de; Huang, Haosheng (2023). Map activity recognition dataset. figshare. Dataset. &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.23805027.v2&#34;&gt;https://doi.org/10.6084/m9.figshare.23805027.v2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h5 id=&#34;related-articles&#34;&gt;Related articles&lt;/h5&gt;&#xA;&lt;p&gt;Qin, T., Fias, W., Van de Weghe, N., &amp;amp; Huang, H. (2024). Recognition of map activities using eye tracking and EEG data. International Journal of Geographical Information Science, 38(3), 550–576. &lt;a href=&#34;https://doi.org/10.1080/13658816.2024.2309188&#34;&gt;https://doi.org/10.1080/13658816.2024.2309188&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h5 id=&#34;related-links&#34;&gt;Related links&lt;/h5&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2309188&#34;&gt;https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2309188&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;box&#34; &gt;&#xA;  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;    &lt;div class=&#34;img&#34;&gt;&#xA;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://MAP-VERSE.github.io/Repository/Repository/img/img07.jpg&#34; alt=&#34;/Repository/img/img07.jpg&#34;/&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;a href=&#34;https://MAP-VERSE.github.io/Repository/Repository/img/img07.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Activity Recognition on MAP-VERSE</title><link>https://MAP-VERSE.github.io/Repository/tags/-activity-recognition/</link><description>Recent content in Activity Recognition on MAP-VERSE</description><generator>Hugo</generator><language>en</language><atom:link href="https://MAP-VERSE.github.io/Repository/tags/-activity-recognition/index.xml" rel="self" type="application/rss+xml"/><item><title>Map activities recognition</title><link>https://MAP-VERSE.github.io/Repository/post/dataset07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://MAP-VERSE.github.io/Repository/post/dataset07/</guid><description>&lt;h4 id="abstract">Abstract&lt;/h4>
+&lt;p>&lt;a href="https://www.tandfonline.com/doi/abs/10.1080/13658816.2024.2309188">Recognizing the activities being performed on a map is crucial for adaptive map design based on user context. Despite eye tracking (ET) demonstrating potential in recognizing map activities and electroencephalography (EEG) measuring map users’ cognitive load, no studies have yet combined ET and EEG for recognition of the user’s activity on maps. Our study collected participants’ ET and EEG data during four types of map activities. After feature extraction and selection, we trained LightGBM (light Gradient-Boosting Machine) to classify these activities, and achieved 88.0% accuracy when combining ET and EEG features in the entire map usage trial, which is higher than using ET (85.9%) or EEG (53.9%) alone. Acceptable recognition accuracy could also be achieved with the early time windows (73.1% when using the first 3 seconds). Saccade features of ET were the most important for differentiating map activities, indicating selective map content for different tasks. Our findings demonstrate the feasibility and advantages of combining ET and EEG for activity recognition in map use. The results not only improve our understanding of visual patterns and cognitive processes in map use, but also enable the design of adaptive maps that can automatically adapt to the activities a map user is performing.&lt;/a>
+
+&lt;link rel="stylesheet" href="https://MAP-VERSE.github.io/Repository/css/hugo-easy-gallery.css" />
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+
+&lt;/div>
+&lt;/p>
+&lt;h5 id="full-citation-dataset-with-doi">Full citation (dataset) with DOI&lt;/h5>
+&lt;p>Qin, Tong; Fias, Wim; Weghe, Nico Van de; Huang, Haosheng (2023). Map activity recognition dataset. figshare. Dataset. &lt;a href="https://doi.org/10.6084/m9.figshare.23805027.v2">https://doi.org/10.6084/m9.figshare.23805027.v2&lt;/a>&lt;/p>
+&lt;h5 id="related-articles">Related articles&lt;/h5>
+&lt;p>Qin, T., Fias, W., Van de Weghe, N., &amp;amp; Huang, H. (2024). Recognition of map activities using eye tracking and EEG data. International Journal of Geographical Information Science, 38(3), 550–576. &lt;a href="https://doi.org/10.1080/13658816.2024.2309188">https://doi.org/10.1080/13658816.2024.2309188&lt;/a>&lt;/p>
+&lt;h5 id="related-links">Related links&lt;/h5>
+&lt;p>&lt;a href="https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2309188">https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2309188&lt;/a>&lt;/p>
+
+
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img">
+ &lt;img itemprop="thumbnail" src="https://MAP-VERSE.github.io/Repository/Repository/img/img07.jpg" alt="/Repository/img/img07.jpg"/>
+ &lt;/div>
+ &lt;a href="https://MAP-VERSE.github.io/Repository/Repository/img/img07.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div></description></item></channel></rss>

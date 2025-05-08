@@ -1,18 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Saliency on MAP-VERSE</title>
-    <link>https://MAP-VERSE.github.io/Repository/tags/saliency/</link>
-    <description>Recent content in Saliency on MAP-VERSE</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="https://MAP-VERSE.github.io/Repository/tags/saliency/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EyeCatchingMaps</title>
-      <link>https://MAP-VERSE.github.io/Repository/post/dataset05/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://MAP-VERSE.github.io/Repository/post/dataset05/</guid>
-      <description>&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://agile-giss.copernicus.org/articles/5/51/2024/&#34;&gt;Saliency models try to predict the gaze behaviour of people in the first seconds of their observation of an image. To assess how much these models can perform to predict saliency in maps, we lack a ground truth to compare to. This paper proposes EyeCatchingMaps, an open dataset that can be used to benchmark saliency models for maps. The dataset has been obtained by recording the gaze of participants looking at different maps for 3 seconds with an eye-tracker. The use of EyeCatchingMaps is demonstrated by comparing two different saliency models from the literature to the real saliency maps derived from people’s gaze.&lt;/a&gt;&#xA;&#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://MAP-VERSE.github.io/Repository/css/hugo-easy-gallery.css&#34; /&gt;&#xA;&#xA;&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;&#xA;&#x9;  &#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;/p&gt;&#xA;&lt;h5 id=&#34;full-citation-dataset-with-doi&#34;&gt;Full citation (dataset) with DOI&lt;/h5&gt;&#xA;&lt;p&gt;Wenclik, L., &amp;amp; Touya, G. (2024). EyeCatchingMaps, a Dataset to Assess Saliency Models on Maps [Data set]. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.10619513&#34;&gt;https://doi.org/10.5281/zenodo.10619513&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h5 id=&#34;related-articles&#34;&gt;Related articles&lt;/h5&gt;&#xA;&lt;p&gt;Wenclik, L. and Touya, G. (2024) EyeCatchingMaps, a Dataset to Assess Saliency Models on Maps, AGILE GIScience Ser., 5, 51, &lt;a href=&#34;https://doi.org/10.5194/agile-giss-5-51-2024&#34;&gt;https://doi.org/10.5194/agile-giss-5-51-2024&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h5 id=&#34;related-links&#34;&gt;Related links&lt;/h5&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://agile-giss.copernicus.org/articles/5/51/2024/&#34;&gt;https://agile-giss.copernicus.org/articles/5/51/2024/&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;box&#34; &gt;&#xA;  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;    &lt;div class=&#34;img&#34;&gt;&#xA;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://MAP-VERSE.github.io/Repository/Repository/img/img05.jpg&#34; alt=&#34;/Repository/img/img05.jpg&#34;/&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;a href=&#34;https://MAP-VERSE.github.io/Repository/Repository/img/img05.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Saliency on MAP-VERSE</title><link>https://MAP-VERSE.github.io/Repository/tags/saliency/</link><description>Recent content in Saliency on MAP-VERSE</description><generator>Hugo</generator><language>en</language><atom:link href="https://MAP-VERSE.github.io/Repository/tags/saliency/index.xml" rel="self" type="application/rss+xml"/><item><title>EyeCatchingMaps</title><link>https://MAP-VERSE.github.io/Repository/post/dataset05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://MAP-VERSE.github.io/Repository/post/dataset05/</guid><description>&lt;h4 id="abstract">Abstract&lt;/h4>
+&lt;p>&lt;a href="https://agile-giss.copernicus.org/articles/5/51/2024/">Saliency models try to predict the gaze behaviour of people in the first seconds of their observation of an image. To assess how much these models can perform to predict saliency in maps, we lack a ground truth to compare to. This paper proposes EyeCatchingMaps, an open dataset that can be used to benchmark saliency models for maps. The dataset has been obtained by recording the gaze of participants looking at different maps for 3 seconds with an eye-tracker. The use of EyeCatchingMaps is demonstrated by comparing two different saliency models from the literature to the real saliency maps derived from people’s gaze.&lt;/a>
+
+&lt;link rel="stylesheet" href="https://MAP-VERSE.github.io/Repository/css/hugo-easy-gallery.css" />
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+
+
+&lt;/div>
+&lt;/p>
+&lt;h5 id="full-citation-dataset-with-doi">Full citation (dataset) with DOI&lt;/h5>
+&lt;p>Wenclik, L., &amp;amp; Touya, G. (2024). EyeCatchingMaps, a Dataset to Assess Saliency Models on Maps [Data set]. Zenodo. &lt;a href="https://doi.org/10.5281/zenodo.10619513">https://doi.org/10.5281/zenodo.10619513&lt;/a>&lt;/p>
+&lt;h5 id="related-articles">Related articles&lt;/h5>
+&lt;p>Wenclik, L. and Touya, G. (2024) EyeCatchingMaps, a Dataset to Assess Saliency Models on Maps, AGILE GIScience Ser., 5, 51, &lt;a href="https://doi.org/10.5194/agile-giss-5-51-2024">https://doi.org/10.5194/agile-giss-5-51-2024&lt;/a>&lt;/p>
+&lt;h5 id="related-links">Related links&lt;/h5>
+&lt;p>&lt;a href="https://agile-giss.copernicus.org/articles/5/51/2024/">https://agile-giss.copernicus.org/articles/5/51/2024/&lt;/a>&lt;/p>
+
+
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img">
+ &lt;img itemprop="thumbnail" src="https://MAP-VERSE.github.io/Repository/Repository/img/img05.jpg" alt="/Repository/img/img05.jpg"/>
+ &lt;/div>
+ &lt;a href="https://MAP-VERSE.github.io/Repository/Repository/img/img05.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div></description></item></channel></rss>
