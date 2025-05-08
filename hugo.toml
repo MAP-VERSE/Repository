@@ -40,7 +40,7 @@ pygmentsCodefencesGuessSyntax = true
   since = "2024"
 #  cusdisID = "XXX" # Get your App id from cusdis.com
 #  hideAuthor = true
-  gcse = "21407dc29b7e641fc" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  gcse = "6594bf4f7a48445fa" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 #  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
 
 [[Params.bigimg]]
