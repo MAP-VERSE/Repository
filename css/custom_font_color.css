@@ -7,14 +7,15 @@ h3 {
     font-style: italic; /* 斜体 */
 }
 
+
 h4 {
-    color: #FF5733; /* 橙色 */
-    background-color: #f2f2f2; /* 浅灰色背景 */
-    padding: 5px;
-    border-left: 5px solid #ffc465; /* 左侧蓝色边框 */
-    font-style: italic; /* 斜体 */
-    font-weight: bold; /* 加粗 */
-    text-transform: uppercase; /* 全部大写 */
+  color: #c70db8; /* 橙色 */
+  background-color: #f2f2f2; /* 浅灰色背景 */
+  padding: 5px;
+  border-left: 5px solid #bf86b1; /* 左侧蓝色边框 */
+  font-style: italic; /* 斜体 */
+  font-weight: bold; /* 加粗 */
+  text-transform: uppercase; /* 全部大写 */
 }
 
 h5, h6 {

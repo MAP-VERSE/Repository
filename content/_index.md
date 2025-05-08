@@ -8,4 +8,4 @@ Welcome to the **MAP-VERSE: MAP usability - Validated Empirical Research by Syst
 
 **increase generalizability and reproducibility of findings**
 
-This repository that acts as a queryable metadata repository for open-access eye tracking, neuroimaging (EEG, fMRI), and human sensing (EDA, cardiovascular activity, skin temperature) datasets recorded during geospatial tasks, a.k.a. map reading user studies. The links to open datasets shared elsewhere (e.g., zenodo, harvard dataverse)
+This repository acts as a queryable metadata repository for open-access eye tracking, neuroimaging (EEG, fMRI), and human sensing (EDA, cardiovascular activity, skin temperature) datasets recorded during geospatial tasks, a.k.a. map reading user studies. The links to open datasets shared elsewhere (e.g., zenodo, harvard dataverse)

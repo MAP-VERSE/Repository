@@ -4,7 +4,7 @@ subtitle: Visual Attention and Recognition Differences Based on Expertise in a M
 # date: 2023-01-12
 tags: ["eye tracking", "AOI","spatial memory","memorability", " cartographic usability", "task difficulty", "expertise", "eye tracking dataset", "navigational maps"]
 # series: ["30 - 100"]
-
+socialShare: false
 ---
 #### Abstract
 [This study investigates how expert and novice map users’ attention is influenced by the map design characteristics of 2D web maps by building and sharing a framework to analyze large volumes of eye tracking data. In this context, we developed an automated area-of-interest (AOI) analysis framework to evaluate participants’ fixation durations, and to assess the influence of linear and polygonal map features on spatial memory. The dataset entitled CartoGAZE is publicly available.](https://www.mdpi.com/2220-9964/12/1/21)

@@ -1,0 +1,25 @@
+/* 更改所有标题颜色 */
+h3 {
+    color: #66605f; /* 橙色 */
+    padding: 5px;
+    font-style: italic; /* 斜体 */
+}
+
+h4 {
+    color: #ff33d3; /* 橙色 */
+    background-color: #f2f2f2; /* 浅灰色背景 */
+    padding: 5px;
+    border-left: 5px solid #dfb5d6; /* 左侧蓝色边框 */
+    font-style: italic; /* 斜体 */
+    font-weight: bold; /* 加粗 */
+    text-transform: uppercase; /* 全部大写 */
+}
+
+h5, h6 {
+    color: #056a47; /* 橙色 */
+    background-color: #f2f2f2; /* 浅灰色背景 */
+    padding: 5px;
+    border-left: 5px solid #79c89a; /* 左侧蓝色边框 */
+    font-style: italic; /* 斜体 */
+    text-decoration: underline; /* 下划线 */
+}

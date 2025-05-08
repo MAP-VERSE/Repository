@@ -5,7 +5,7 @@ subtitle: Recognition of map activities using eye tracking and EEG data
 author: Tong et al.
 tags: ["eye tracking", "map activities", " activity recognition", "electroencephalography", "map adaptation"]
 #series: ["30 - 100"]
-
+socialShare: false
 ---
 
 #### Abstract

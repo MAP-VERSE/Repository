@@ -5,7 +5,7 @@ subtitle: A geospatial image based eye movement dataset for cartography and GIS
 # author: Bing et al.,
 tags: ["eye movement dataset","geospatial image","cartography", "GIS","visual saliency detection"]
 #series: ["> 100"]
-
+socialShare: false
 ---
 #### Abstract
 [A geospatial image-based eye movement dataset called GeoEye, a publicly shared, widely available eye movement dataset. This dataset consists of 110 college- aged participants who freely viewed 500 images, including thematic maps, remote sensing images, and street view images, which could use for geospatial image saliency prediction and map user identification.](https://www.tandfonline.com/doi/abs/10.1080/15230406.2022.2153172)

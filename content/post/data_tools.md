@@ -1,6 +1,7 @@
 ---
 title: Useful tools for datasets
 subtitle: 
+socialShare: false
 ---
 #### Links
 https://microsite.geo.uzh.ch/icacogvis/resources.html

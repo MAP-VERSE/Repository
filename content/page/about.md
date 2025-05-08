@@ -2,6 +2,7 @@
 title: About us
 subtitle: MAP-VERSE （MAP usability - Validated Empirical Research by Systematic Evaluation） 
 comments: xxx
+socialShare: false
 ---
 
 ###

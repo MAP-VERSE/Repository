@@ -4,7 +4,7 @@ subtitle: Evaluating the perceived visual complexity of multidirectional hill-sh
 #date: 2020-07-03
 tags: ["multidirectional hill-shading", "visual complexity", "eye movement analysis", "expert judgement process"]
 #series: ["< 30"]
-
+socialShare: false
 ---
 
 #### Abstract

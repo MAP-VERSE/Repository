@@ -4,7 +4,7 @@ subtitle: OnMapGaze and GraphGazeD - A Gaze Dataset and a Graph-Based Metric for
 #date: 2024-06-13
 tags: ["eye tracking", "gaze dataset", "graph-based metric", "visual perception differences","statistical grayscale heatmaps", "cartographic backgrounds", "online map services"]
 # series: ["= 30"]
-
+socialShare: false
 ---
 
 #### Abstract

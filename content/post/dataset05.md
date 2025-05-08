@@ -4,7 +4,7 @@ subtitle: EyeCatchingMaps, a Dataset to Assess Saliency Models on Maps
 #date: 2024-05-30
 tags: ["cartography", "maps", "eye-tracking", "saliency"]
 #series: ["30 - 100"]
-
+socialShare: false
 ---
 
 #### Abstract
