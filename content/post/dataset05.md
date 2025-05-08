@@ -21,5 +21,5 @@ Wenclik, L. and Touya, G. (2024) EyeCatchingMaps, a Dataset to Assess Saliency M
 ##### Related links
 https://agile-giss.copernicus.org/articles/5/51/2024/
 
-{{<figure src="/Open-Metadata-Platform-for-Map-Usability_v2/img/img05.jpg">}}
+{{<figure src="/Repository/img/img05.jpg">}}
 <!--more-->

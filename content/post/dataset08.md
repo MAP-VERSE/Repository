@@ -21,5 +21,5 @@ Rymarkiewicz W, Cybulski P, Horbiński T. Measuring Efficiency and Accuracy in L
 
 ##### Related links
 https://www.mdpi.com/2220-9964/13/2/42
-{{<figure src="/Open-Metadata-Platform-for-Map-Usability_v2/img/img08.jpg">}}
+{{<figure src="/Repository/img/img08.jpg">}}
 <!--more-->

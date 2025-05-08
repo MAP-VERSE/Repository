@@ -1,5 +1,5 @@
 ---
-title: Tzelepis et al. (2020)
+title: MDHScomplexity
 subtitle: Evaluating the perceived visual complexity of multidirectional hill-shading
 #date: 2020-07-03
 tags: ["multidirectional hill-shading", "visual complexity", "eye movement analysis", "expert judgement process"]
@@ -14,12 +14,12 @@ tags: ["multidirectional hill-shading", "visual complexity", "eye movement analy
 
 {{< /gallery >}}
 ##### Full citation (dataset) with DOI
-/
+Tzelepis, N., Krassanakis, V., Kaliakouda, A., Misthos, L.-M., & Nakos, B. (2020). MDHScomplexity (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14680770
 
 ##### Related articles
 Tzelepis, N., Kaliakouda, A., Krassanakis, V., Misthos, L. M., & Nakos, B. (2020). Evaluating the perceived visual complexity of multidirectional hill-shading. Geodesy and Cartography, 69(2), 161-172. https://doi.org/10.24425/gac.2020.131085
 
 ##### Related links
 http://users.ntua.gr/niktzel/gc_paper_data.zip
-{{<figure src="/Open-Metadata-Platform-for-Map-Usability_v2/img/img04.jpg">}}
+{{<figure src="/Repository/img/img04.jpg">}}
 <!--more-->

@@ -24,5 +24,5 @@ https://doi.org/10.1080/15230406.2022.2153172
 https://www.tandfonline.com/doi/full/10.1080/15230406.2022.2153172
 <!-- # Related links -->
 
-{{<figure src="/Open-Metadata-Platform-for-Map-Usability_v2/img/img01.jpg">}}
+{{<figure src="/Repository/img/img01.jpg">}}
 <!--more-->

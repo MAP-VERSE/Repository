@@ -37,6 +37,7 @@ pygmentsCodefencesGuessSyntax = true
   delayDisqus = true
   showRelatedPosts = true
   customCSS = true
+  since = "2024"
 #  cusdisID = "XXX" # Get your App id from cusdis.com
 #  hideAuthor = true
   gcse = "21407dc29b7e641fc" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
@@ -136,3 +137,8 @@ pygmentsCodefencesGuessSyntax = true
     identifier = "experimental-tools"
     url = "post/data_tools"
     weight = 4
+
+[[menu.main]]
+    name = "License"
+    url = "page/license_mit"
+    weight = 5

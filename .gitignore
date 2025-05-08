@@ -1,0 +1,10 @@
+# Hugo build output
+public/
+resources/
+
+# System files
+.DS_Store
+
+# Backups
+backup/
+backup_file/

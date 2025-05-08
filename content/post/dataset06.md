@@ -22,5 +22,5 @@ Krassanakis, V. (2022). Examining the preattentive effect on cartographic backgr
 ##### Related links
 https://doi.org/10.5194/ica-abs-5-111-2022 
 
-{{<figure src="/Open-Metadata-Platform-for-Map-Usability_v2/img/img06.jpg">}}
+{{<figure src="/Repository/img/img06.jpg">}}
 <!--more-->

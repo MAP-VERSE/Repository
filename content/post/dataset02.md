@@ -20,6 +20,6 @@ Keskin M, Krassanakis V, Çöltekin A. Visual Attention and Recognition Differen
 ##### Related links
 https://www.mdpi.com/2220-9964/12/1/21
 
-{{<figure src="/Open-Metadata-Platform-for-Map-Usability_v2/img/img02_01.jpg">}}
-{{<figure src="/Open-Metadata-Platform-for-Map-Usability_v2/img/img02_02.jpg">}}
+{{<figure src="/Repository/img/img02_01.jpg">}}
+{{<figure src="/Repository/img/img02_02.jpg">}}
 <!--more-->

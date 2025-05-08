@@ -21,5 +21,5 @@ Qin, T., Fias, W., Van de Weghe, N., & Huang, H. (2024). Recognition of map acti
 ##### Related links
 https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2309188
 
-{{<figure src="/Open-Metadata-Platform-for-Map-Usability_v2/img/img07.jpg">}}
+{{<figure src="/Repository/img/img07.jpg">}}
 <!--more-->

@@ -22,5 +22,5 @@ Cybulski P. Animating Cartographic Meaning: Unveiling the Impact of Pictorial Sy
 ##### Related links
 https://www.mdpi.com/2220-9964/13/4/118
 
-{{<figure src="/Open-Metadata-Platform-for-Map-Usability_v2/img/img09.jpg">}}
+{{<figure src="/Repository/img/img09.jpg">}}
 <!--more-->
