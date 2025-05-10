@@ -1,6 +1,6 @@
 ---
 title: GeoEye
-subtitle: BNU500: A geospatial image based eye movement dataset for cartography and GIS
+subtitle: BNU500 A geospatial image based eye movement dataset for cartography and GIS
 # date: 2023-06-04
 # author: Bing et al.,
 tags: ["eye movement dataset","geospatial image","cartography", "GIS","visual saliency detection"]
