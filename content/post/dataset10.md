@@ -24,6 +24,6 @@ https://doi.org/10.1038/s41597-025-04995-w
 https://www.nature.com/articles/s41597-025-04995-w
 <!-- # Related links -->
 
-{{<figure src="/Repository/img/img10_01.jpg">}}
-{{<figure src="/Repository/img/img10_02.jpg">}}
+{{<figure src="/Repository/img/img10-01.jpg">}}
+{{<figure src="/Repository/img/img10-02.jpg">}}
 <!--more-->
