@@ -22,9 +22,9 @@
 &lt;div class="box" >
  &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
  &lt;div class="img">
- &lt;img itemprop="thumbnail" src="https://MAP-VERSE.github.io/Repository/Repository/img/img10_01.jpg" alt="/Repository/img/img10_01.jpg"/>
+ &lt;img itemprop="thumbnail" src="https://MAP-VERSE.github.io/Repository/Repository/img/img10-01.jpg" alt="/Repository/img/img10-01.jpg"/>
  &lt;/div>
- &lt;a href="https://MAP-VERSE.github.io/Repository/Repository/img/img10_01.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;a href="https://MAP-VERSE.github.io/Repository/Repository/img/img10-01.jpg" itemprop="contentUrl">&lt;/a>
  &lt;/figure>
 &lt;/div>
 
@@ -33,9 +33,9 @@
 &lt;div class="box" >
  &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
  &lt;div class="img">
- &lt;img itemprop="thumbnail" src="https://MAP-VERSE.github.io/Repository/Repository/img/img10_02.jpg" alt="/Repository/img/img10_02.jpg"/>
+ &lt;img itemprop="thumbnail" src="https://MAP-VERSE.github.io/Repository/Repository/img/img10-02.jpg" alt="/Repository/img/img10-02.jpg"/>
  &lt;/div>
- &lt;a href="https://MAP-VERSE.github.io/Repository/Repository/img/img10_02.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;a href="https://MAP-VERSE.github.io/Repository/Repository/img/img10-02.jpg" itemprop="contentUrl">&lt;/a>
  &lt;/figure>
 &lt;/div>
 &lt;/p></description></item></channel></rss>
