@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>EEG on MAP-VERSE</title><link>https://MAP-VERSE.github.io/Repository/tags/eeg/</link><description>Recent content in EEG on MAP-VERSE</description><generator>Hugo</generator><language>en</language><atom:link href="https://MAP-VERSE.github.io/Repository/tags/eeg/index.xml" rel="self" type="application/rss+xml"/><item><title>EEGET-RSOD</title><link>https://MAP-VERSE.github.io/Repository/post/dataset10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://MAP-VERSE.github.io/Repository/post/dataset10/</guid><description>&lt;h4 id="abstract">Abstract&lt;/h4>
+&lt;p>&lt;a href="https://doi.org/10.1038/s41597-025-04995-w"> This dataset contains EEG and eye-tracking data when 38 remote sensing experts located specifc objects in 1,000 remote sensing images within a limited time frame.&lt;/a>
+
+&lt;link rel="stylesheet" href="https://MAP-VERSE.github.io/Repository/css/hugo-easy-gallery.css" />
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+
+&lt;/div>
+&lt;/p>
+&lt;h5 id="full-citation-dataset-with-doi">Full citation (dataset) with DOI&lt;/h5>
+&lt;p>HE, ICE (2025). EEGET-RSOD dataset. figshare. Dataset.
+&lt;a href="https://doi.org/10.6084/m9.fgshare.26943565">https://doi.org/10.6084/m9.fgshare.26943565&lt;/a>&lt;/p>
+&lt;h5 id="related-articles">Related articles&lt;/h5>
+&lt;p>He, B., Zhang, H., Qin, T. et al. A simultaneous EEG and eye-tracking dataset for remote sensing object detection. Sci Data 12, 651 (2025).
+&lt;a href="https://doi.org/10.1038/s41597-025-04995-w">https://doi.org/10.1038/s41597-025-04995-w&lt;/a>&lt;/p>
+&lt;h5 id="related-links">Related links&lt;/h5>
+&lt;p>&lt;a href="https://www.nature.com/articles/s41597-025-04995-w">https://www.nature.com/articles/s41597-025-04995-w&lt;/a>&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>
+
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img">
+ &lt;img itemprop="thumbnail" src="https://MAP-VERSE.github.io/Repository/Repository/img/img10_01.jpg" alt="/Repository/img/img10_01.jpg"/>
+ &lt;/div>
+ &lt;a href="https://MAP-VERSE.github.io/Repository/Repository/img/img10_01.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img">
+ &lt;img itemprop="thumbnail" src="https://MAP-VERSE.github.io/Repository/Repository/img/img10_02.jpg" alt="/Repository/img/img10_02.jpg"/>
+ &lt;/div>
+ &lt;a href="https://MAP-VERSE.github.io/Repository/Repository/img/img10_02.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+&lt;/p></description></item></channel></rss>
