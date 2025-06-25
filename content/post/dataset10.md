@@ -1,6 +1,6 @@
 ---
 title: EEGET-RSOD
-subtitle: A simultaneous EEG and eyetracking dataset for remote sensing object detection
+subtitle: A simultaneous EEG and eye tracking dataset for remote sensing object detection
 # date: 2025-06-04
 # author: Bing et al.,
 tags: ["eye movement dataset","remote sensing image","EEG", "GIS","object detection"]
